@@ -1,0 +1,7 @@
+interface:
+  display_name: "Sacred Invariants"
+  short_description: "Run staged invariant discovery"
+  default_prompt: "Use $sacred-invariants to run a staged brownfield investigation: rough reconnaissance, lead-architect synthesis, and downstream handoff."
+
+policy:
+  allow_implicit_invocation: false
